@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=hiteshdua1&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hiteshdua1&theme=tokyonight-duo)](https://git.io/streak-stats) 
+[![Hitesh Dua StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1870088)](https://stackoverflow.com/users/1870088/hiteshdua1)
+
 
 <!--
 **hiteshdua1/hiteshdua1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
