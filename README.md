@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=hiteshdua1&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 <!--
 **hiteshdua1/hiteshdua1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
