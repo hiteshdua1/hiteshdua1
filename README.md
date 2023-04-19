@@ -4,6 +4,10 @@
 [![Hitesh Dua StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1870088)](https://stackoverflow.com/users/1870088/hiteshdua1)
 
 
+[website]: https://hiteshdua1.github.io
+[linkedin]: https://www.linkedin.com/in/hiteshdua1/
+[Spotify]: https://open.spotify.com/user/07ujb5uc8efgxwjl2oj30cflx
+
 <!--
 **hiteshdua1/hiteshdua1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
