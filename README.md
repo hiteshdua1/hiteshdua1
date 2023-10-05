@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=hiteshdua1&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hiteshdua1&card_width=500)](https://git.io/streak-stats)
 
 [![Hitesh Dua StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1870088)](https://stackoverflow.com/users/1870088/hiteshdua1)
 
